@@ -1,0 +1,11 @@
+USE clientes_laravel;
+INSERT INTO clients (first_name, last_name, phone_number, email, address) VALUES ('Juan', 'Pérez', '555-0101', 'juan.perez@email.com', '123 Calle Principal');
+INSERT INTO clients (first_name, last_name, phone_number, email, address) VALUES ('Laura', 'García', '555-0102', 'laura.garcia@email.com', '456 Calle Secundaria');
+INSERT INTO clients (first_name, last_name, phone_number, email, address) VALUES ('Carlos', 'Martínez', '555-0103', 'carlos.martinez@email.com', '789 Calle Tercera');
+INSERT INTO clients (first_name, last_name, phone_number, email, address) VALUES ('Sofía', 'López', '555-0104', 'sofia.lopez@email.com', '101 Calle Cuarta');
+INSERT INTO clients (first_name, last_name, phone_number, email, address) VALUES ('Miguel', 'Hernández', '555-0105', 'miguel.hernandez@email.com', '202 Calle Quinta');
+INSERT INTO clients (first_name, last_name, phone_number, email, address) VALUES ('Ana', 'González', '555-0106', 'ana.gonzalez@email.com', '303 Calle Sexta');
+INSERT INTO clients (first_name, last_name, phone_number, email, address) VALUES ('Roberto', 'Álvarez', '555-0107', 'roberto.alvarez@email.com', '404 Calle Séptima');
+INSERT INTO clients (first_name, last_name, phone_number, email, address) VALUES ('Patricia', 'Moreno', '555-0108', 'patricia.moreno@email.com', '505 Calle Octava');
+INSERT INTO clients (first_name, last_name, phone_number, email, address) VALUES ('David', 'Jiménez', '555-0109', 'david.jimenez@email.com', '606 Calle Novena');
+INSERT INTO clients (first_name, last_name, phone_number, email, address) VALUES ('María', 'Díaz', '555-0110', 'maria.diaz@email.com', '707 Calle Décima');
